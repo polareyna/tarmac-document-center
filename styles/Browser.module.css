@@ -1,0 +1,8 @@
+.browserBody {
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    height: 72vw;
+    color: rgb(var(--header-font-color));
+}

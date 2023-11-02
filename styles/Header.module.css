@@ -1,0 +1,9 @@
+.header{
+    color: rgb(var(--header-font-color));
+    width: 100%; 
+    background: rgb(var(--header-background-color));
+    font-size: '20px';
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}

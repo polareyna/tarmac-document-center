@@ -1,0 +1,22 @@
+.profileBody {
+    background:rgb(var(--profile-background-color)) ;
+    width: 18%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding: 1%;
+    height: 72vw;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+}
+
+.profilePicture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
